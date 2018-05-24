@@ -3,6 +3,9 @@
 ## 1. Description
 What is the number of code reviews?
 
+Current Implementation (move to "pull-request-code-reviews"):
+What is the number of code reviews on each pull request?
+
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
 
