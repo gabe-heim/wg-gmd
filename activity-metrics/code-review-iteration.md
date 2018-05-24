@@ -1,7 +1,9 @@
 # Code Review Iteration
 
 ## 1. Description
-What is the number of iterations that occur before a merge request is accepted or declined? 
+What is the number of iterations (a pull request being opened/reopened and closed is one iteration) that occur before a merge request is accepted (successfully merged and closed) or declined (never merged and has been closed at least once)?
+
+Does not provide data on pull requests that are open/currently being reviewed and have not been closed at all (have not completed an iteration).
 
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
