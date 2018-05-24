@@ -3,6 +3,10 @@
 ## 1. Description
 What is the number of merged code changes/number of abandoned code change requests?
 
+Measured as a ratio of merged code changes : number of abandoned code change requests.
+
+Being "abandoned" is defined as the pull request of the code change having never been merged and has been closed at least once.
+
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
 
