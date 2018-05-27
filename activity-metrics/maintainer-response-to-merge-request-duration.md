@@ -1,7 +1,7 @@
 # Maintainer Response to Merge Request Duration
 
 ## 1. Description
-What is the duration of time for a maintainer to make a first response to a code merge request?
+What is the duration of time for a maintainer to make a first response (comment) to a code merge request? Where a maintainer of a repository is a user who has the authority to merge a merge request in that repository.
 
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
