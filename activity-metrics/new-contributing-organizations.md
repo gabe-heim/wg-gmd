@@ -3,6 +3,10 @@
 ## 1. Description
 What is the number of new contributing organizations?
 
+Shown by a running total of organizations that have contributed to a project by week from the projects creation.
+
+A contributing organization is an organization that does not contain the project (an outside organization) and has a member that has either posted a commit/commit comment, an issue/issue comment, or a pull request/pull request comment on the project.
+
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
 
