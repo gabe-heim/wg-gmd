@@ -51,6 +51,8 @@ Name | Quesiton
 [New Contributors](activity-metrics/new-contributors.md) | What is the number of new contributors?
 [Contributing Organizations](activity-metrics/contributing-organizations.md) | What is the number of contributing organizations?
 [New Contributing Organizations](activity-metrics/new-contributing-organizations.md) | What is the number of new contributing organizations?
+[Contributing Github Organizations](activity-metrics/contributing-github-organizations.md) | What is the number of contributing github organizations?
+[New Contributing Github Organizations](activity-metrics/new-contributing-github-organizations.md) | What is the number of new contributing github organizations?
 [Sub-Projects](activity-metrics/sub-projects.md) | What is the number of sub-projects?
 [Contribution Acceptance](activity-metrics/contribution-acceptance.md)  | Ratio of contributions accepted vs. closed without acceptance
 
