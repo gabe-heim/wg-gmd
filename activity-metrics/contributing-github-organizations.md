@@ -1,9 +1,9 @@
 # Contributing Organizations
 
 ## 1. Description
-What is the number of organizations that have contributed to a project?
+What is the number of outside GitHub organizations that have contributed to a project?
 
-A contributing organization is an organization that does not contain the project (an outside organization) and has a member that has either posted a commit/commit comment, an issue/issue comment, or a pull request/pull request comment on the project.
+A contributing GitHub organization is an organization that does not contain the project (an outside organization) and has a member that has either posted a commit/commit comment, an issue/issue comment, or a pull request/pull request comment on the project.
 
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
