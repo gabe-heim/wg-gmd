@@ -1,4 +1,4 @@
-# Contributing Organizations
+# Contributing GitHub Organizations
 
 ## 1. Description
 What is the number of outside GitHub organizations that have contributed to a project?
