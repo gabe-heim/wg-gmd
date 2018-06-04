@@ -3,6 +3,10 @@
 ## 1. Description
 Ratio of contributions accepted vs. closed without acceptance
 
+Measured as a ratio of merged code changes : number of abandoned code change requests.
+
+Being "abandoned" is defined as the pull request of the code change having never been merged and has been closed at least once.
+
 ## 2. Use Cases
 
 ## 3. Sample Filter and Visualization
